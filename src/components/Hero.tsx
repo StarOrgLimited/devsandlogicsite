@@ -24,7 +24,7 @@ const Hero = () => {
           >
             <div className="mb-6">
               <span className="inline-block py-1 px-3 bg-blue-100 text-primary rounded-full text-sm font-semibold mb-4">
-                Top MVP & SaaS Developers in New York
+                Top MVP & SaaS Developers
               </span>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
                 Turning Ideas into <span className="gradient-text">Powerful Solutions</span>
@@ -45,7 +45,7 @@ const Hero = () => {
             
             <div className="mt-8 grid grid-cols-3 gap-4">
               <div className="text-center">
-                <div className="text-3xl font-bold text-primary">100+</div>
+                <div className="text-3xl font-bold text-primary">30+</div>
                 <div className="text-sm text-gray-600">Projects Delivered</div>
               </div>
               <div className="text-center">

@@ -41,8 +41,8 @@ const IndexPage = () => {
       transition={{ duration: 0.5 }}
     >
       <Head>
-        <title>Devs & Logic | Best MVP & SaaS Developers in New York</title>
-        <meta name="description" content="Devs & Logic specializes in custom SaaS development and MVP creation. We are the top-rated MVP and SaaS developers in New York with expertise in React, Node.js, and modern web technologies." />
+        <title>Devs & Logic | Best MVP & AI SaaS Developers</title>
+        <meta name="description" content="Devs & Logic specializes in custom SaaS development and MVP creation. We are the top-rated MVP and SaaS developers with expertise in React, Node.js, and modern web technologies." />
       </Head>
       <Header />
       <main>

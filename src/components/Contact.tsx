@@ -72,9 +72,9 @@ const ContactForm = () => {
           transition={{ duration: 0.5 }}
           viewport={{ once: true }}
         >
-          <h2 className="section-title">Contact Us</h2>
+          <h2 className="section-title">Let's Talk</h2>
           <p className="section-subtitle">
-            Ready to discuss your project? Get in touch with our team.
+            Ready to discuss your project? Fill the form and Get in touch with our team.
           </p>
         </motion.div>
 
@@ -115,7 +115,7 @@ const ContactForm = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-lg">Email Us</h4>
-                    <p className="text-gray-600">info@devsandlogic.com</p>
+                    <p className="text-gray-600">admin@devsandlogics.com</p>
                     <p className="text-gray-600">support@devsandlogic.com</p>
                   </div>
                 </div>
@@ -128,8 +128,8 @@ const ContactForm = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-lg">Call Us</h4>
-                    <p className="text-gray-600">(123) 456-7890</p>
-                    <p className="text-gray-600">(123) 456-7891</p>
+                    <p className="text-gray-600">+92 333069 5002</p>
+                    <p className="text-gray-600">+92 3019497 401</p>
                   </div>
                 </div>
               </div>
